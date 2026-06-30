@@ -1,0 +1,6 @@
+{
+  "name": "Rislo",
+  "description": "Gemini tərəfindən idarə olunan, qaranlıq rejimli və söhbət tarixçəsini saxlayan ağıllı süni intellekt köməkçisi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
